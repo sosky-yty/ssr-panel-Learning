@@ -1,0 +1,13 @@
+{
+  "require": {
+    "monolog/monolog": "1.2.*",
+    "slim/slim": "*",
+    "slim/csrf": "*",
+    "slim/twig-view": "1.2.0",
+    "smarty/smarty": "3.*",
+    "illuminate/pagination": "5.2.*",
+    "illuminate/database": "5.2.*",
+    "vlucas/phpdotenv": "~2.1",
+    "zeuxisoo/slim-whoops": "0.6.*"
+  }
+}
